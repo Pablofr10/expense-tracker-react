@@ -10,5 +10,5 @@ In the project directory, you can run:
 
 ### `npm start`
 <p align="center"> 
-    <img src="./screen.png" width="300" title="Screen page">
+    <img src="./screen.png" width="600" title="Screen page">
  </p>
